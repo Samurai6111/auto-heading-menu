@@ -1,8 +1,8 @@
-# custom-wordpress-editor
+auto-heading-menu
 
-Wordpressの管理画面のエディターに機能追加するためのプラグインです。
+をrdpれs上でページ内のheadingタグを検出し、サイドメニューを作るプラグイン
 
 
 アップデート履歴；
-2021/07/20
-アコーディオン追加
+2021/08/07
+first upload
