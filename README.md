@@ -1,6 +1,6 @@
 auto-heading-menu
 
-をrdpれs上でページ内のheadingタグを検出し、サイドメニューを作るプラグイン
+wordpress上でページ内のheadingタグを検出し、サイドメニューを作るプラグイン
 
 
 アップデート履歴；
